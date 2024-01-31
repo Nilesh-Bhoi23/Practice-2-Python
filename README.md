@@ -1,7 +1,6 @@
 # -  Loops
 ## For loop
-## While loop
-<br>
+## While loop  <br>
 ## String datatype 
 ## Data structures
 ### - list,tuple,set,dictionary
